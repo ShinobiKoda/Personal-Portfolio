@@ -1,0 +1,15 @@
+#welcome-section{
+  height: 100vh;
+}
+
+#navbar{
+  position: fixed;
+  top: 0;
+}
+
+@media screen and (min-width: 600px) {
+  #welcome-section{
+    color: white;
+    background-color: #000;
+  }
+}
